@@ -27,7 +27,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,Vectors))
 ```
 ## Output:
 ![eigen values](https://user-images.githubusercontent.com/118679883/213987388-279e1ca8-e979-41f1-81b5-b3e68251b78d.png)
-![](gaussian 4.png.png)
+![](./gaussian 4.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
